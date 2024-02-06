@@ -1,9 +1,5 @@
-print ("ola")
-print ("me chamo caio, tenho 15 anos")
-print ("comecei a programar faz 2 semanas")
-print ("não sou muitoo bom, mas e so questão de estudar")
-print (" faço curso de python, de graça mesmo")
-print (" e tambem pretendo trabalhar disso!")
-print ("My future depends on me..")
+ola
+
+me chamo caio, tenho 15 anos, e atualmente estou cursando programação de python, pretendo trabalhar disso e ter uma otima carreira como dev, me desejem sorte, muito obrigado :)
 
 bye :)
